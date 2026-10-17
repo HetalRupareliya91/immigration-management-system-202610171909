@@ -1,0 +1,15 @@
+{
+  "name": "immigration-management-system",
+  "version": "1.0.0",
+  "description": "Complete immigration management system REST API",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
